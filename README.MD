@@ -1,4 +1,2 @@
 # Readme
-```
-bash
-```
+learning
